@@ -1,12 +1,5 @@
 # README
 
-## Team Members
-
-- Likhitha Javvaji (javvajilikhitha1998@gmail.com)
-- Naga Naresh Kumar (nareshkumar.konatham@gmail.com)
-- Sai Rohith Ganni -(sairohithg1199@gmail.com)
-- Bhimireddy meghana reddy- (meghanabhimi@gmail.com)
-
 About Gundain
     Main theme of the project is sell autographed jersey's or sports player game items, which are been used in playing. The items will be sold based on auction who wins the bidding of particular item( like, jersey's, baseball bat, basket ball .. etc). In addition to auction we are working on selling game kit like player names on jersey's, baseball kit, basketball kit in the store feature, also we implementing a feature to buy tickets online for a particular match and users can view upcoming games schedule that user can't miss his/her favourite player match.
 
